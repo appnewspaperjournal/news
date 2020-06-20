@@ -1,0 +1,364 @@
+[
+    {
+        "title": "globo",
+        "logo": "g1.png",
+        "color": "#fff",
+        "url": "https://g1.globo.com/",
+        "category": 1
+    },
+    {
+        "title": "A TARDE",
+        "logo": "atarde.png",
+        "color": "#fff",
+        "url": "https://atarde.uol.com.br/",
+        "category": 1
+    },
+    {
+        "title": "globo",
+        "logo": "globo.png",
+        "color": "#fff",
+        "url": "https://www.globo.com/",
+        "category": 1
+    },
+    {
+        "title": "uol",
+        "logo": "uol.png",
+        "color": "#fff",
+        "url": "https://www.uol.com.br/",
+        "category": 1
+    },
+    {
+        "title": "ig",
+        "logo": "ig.png",
+        "color": "#fff",
+        "url": "https://www.ig.com.br/",
+        "category": 1
+    },
+    {
+        "title": "r7",
+        "logo": "r7.png",
+        "color": "#fff",
+        "url": "https://www.r7.com/",
+        "category": 1
+    },
+    {
+        "title": "uai",
+        "logo": "uai.png",
+        "color": "#fff",
+        "url": "https://www.uai.com.br/",
+        "category": 1
+    },
+    {
+        "title": "brasil247",
+        "logo": "brasil247.png",
+        "color": "#fff",
+        "url": "https://www.brasil247.com/",
+        "category": 1
+    },
+    
+    {
+        "title": "terra",
+        "logo": "terra.png",
+        "color": "#fff",
+        "url": "https://www.terra.com.br/",
+        "category": 3
+    },
+    {
+        "title": "otempo",
+        "logo": "otempo.png",
+        "color": "#fff",
+        "url": "https://www.otempo.com.br/",
+        "category": 1
+    },
+    {
+        "title": "bol uol",
+        "logo": "bol_uol.png",
+        "color": "#fff",
+        "url": "https://www.bol.uol.com.br/",
+        "category": 1
+    },
+    {
+        "title": "folha",
+        "logo": "folha.png",
+        "color": "#fff",
+        "url": "https://www.folha.uol.com.br/",
+        "category": 1
+    },
+    {
+        "title": "em",
+        "logo": "em.png",
+        "color": "#fff",
+        "url": "https://www.em.com.br/",
+        "category": 1
+    },
+    {
+        "title": "ne10",
+        "logo": "ne10.png",
+        "color": "#fff",
+        "url": "https://ne10.uol.com.br/",
+        "category": 1
+    },
+    {
+        "title": "revistaforum",
+        "logo": "revistaforum.png",
+        "color": "#fff",
+        "url": "https://revistaforum.com.br/",
+        "category": 1
+    },
+    {
+        "title": "estadao",
+        "logo": "estadao.png",
+        "color": "#fff",
+        "url": "https://www.estadao.com.br/",
+        "category": 1
+    },
+    {
+        "title": "campograndenews",
+        "logo": "campograndenews.png",
+        "color": "#fff",
+        "url": "https://www.campograndenews.com.br/",
+        "category": 1
+    },
+    {
+        "title": "veja",
+        "logo": "veja.png",
+        "color": "#fff",
+        "url": "https://veja.abril.com.br/",
+        "category": 1
+    },
+    {
+        "title": "epoca",
+        "logo": "epoca.png",
+        "color": "#fff",
+        "url": "https://epoca.globo.com/",
+        "category": 1
+    },
+    {
+        "title": "gazetabrasil",
+        "logo": "gazetabrasil.png",
+        "color": "#fff",
+        "url": "https://gazetabrasil.com.br/",
+        "category": 1
+    },
+    {
+        "title": "brazilian report",
+        "logo": "brazilian_report.png",
+        "color": "#fff",
+        "url": "https://brazilian.report/",
+        "category": 1
+    },
+    {
+        "title": "riotimesonline",
+        "logo": "riotimesonline.png",
+        "color": "#fff",
+        "url": "https://riotimesonline.com/",
+        "category": 1
+    },
+
+
+    {
+        "title": "odia",
+        "logo": "odia.png",
+        "color": "#fff",
+        "url": "https://odia.ig.com.br/",
+        "category": 2
+    },
+    {
+        "title": "diariogaucho",
+        "logo": "diariogaucho.png",
+        "color": "#fff",
+        "url": "http://diariogaucho.clicrbs.com.br/rs/",
+        "category": 2
+    },
+    {
+        "title": "gazetadealagoas",
+        "logo": "gazetadealagoas.png",
+        "color": "#fff",
+        "url": "https://d.gazetadealagoas.com.br/",
+        "category": 2
+    },
+    {
+        "title": "correiobraziliense",
+        "logo": "correiobraziliense.png",
+        "color": "#fff",
+        "url": "https://www.correiobraziliense.com.br/",
+        "category": 2
+    },
+    {
+        "title": "diariodonordeste",
+        "logo": "diariodonordeste.png",
+        "color": "#fff",
+        "url": "https://diariodonordeste.verdesmares.com.br/",
+        "category": 2
+    },
+
+    
+
+
+
+    {
+        "title": "g1 economy",
+        "logo": "g1_economy.png",
+        "color": "#fff",
+        "url": "https://g1.globo.com/economia/",
+        "category": 3
+    },
+    {
+        "title": "uol economy",
+        "logo": "uol_economia.png",
+        "color": "#fff",
+        "url": "https://economia.uol.com.br/",
+        "category": 3
+    },
+    {
+        "title": "infomoney",
+        "logo": "infomoney.png",
+        "color": "#fff",
+        "url": "https://www.infomoney.com.br/",
+        "category": 3
+    },
+    {
+        "title": "valor",
+        "logo": "valor.png",
+        "color": "#fff",
+        "url": "https://valor.globo.com/",
+        "category": 3
+    },
+    {
+        "title": "exame",
+        "logo": "exame.png",
+        "color": "#fff",
+        "url": "https://exame.com/brasil/",
+        "category": 3
+    },
+    {
+        "title": "terra",
+        "logo": "terra.png",
+        "color": "#fff",
+        "url": "https://www.terra.com.br/economia/",
+        "category": 3
+    },
+
+
+
+
+
+
+
+    {
+        "title": "esporte",
+        "logo": "esporte.png",
+        "color": "#fff",
+        "url": "https://www.uol.com.br/esporte/",
+        "category": 4
+    },
+    {
+        "title": "lance",
+        "logo": "lance.png",
+        "color": "#fff",
+        "url": "https://www.lance.com.br/",
+        "category": 4
+    },
+    {
+        "title": "bolavip",
+        "logo": "bolavip.png",
+        "color": "#fff",
+        "url": "https://br.bolavip.com/",
+        "category": 4
+    },
+    {
+        "title": "netflu",
+        "logo": "netflu.png",
+        "color": "#fff",
+        "url": "https://www.netflu.com.br/",
+        "category": 4
+    },
+    {
+        "title": "globoesporte",
+        "logo": "globoesporte.png",
+        "color": "#fff",
+        "url": "https://globoesporte.globo.com/",
+        "category": 4
+    },
+
+    {
+        "title": "goal",
+        "logo": "goal.png",
+        "color": "#fff",
+        "url": "https://www.goal.com/br/",
+        "category": 4
+    },
+       {
+        "title": "espn",
+        "logo": "espn.png",
+        "color": "#fff",
+        "url": "https://www.espn.com.br/",
+        "category": 4
+    },
+    {
+        "title": "gazetaesportiva",
+        "logo": "gazetaesportiva.png",
+        "color": "#fff",
+        "url": "https://www.gazetaesportiva.com/",
+        "category": 4
+    },
+    {
+        "title": "superesportes",
+        "logo": "superesportes.png",
+        "color": "#fff",
+        "url": "https://www.mg.superesportes.com.br/",
+        "category": 4
+    },
+    {
+        "title": "esporte ig",
+        "logo": "esporte_ig.png",
+        "color": "#fff",
+        "url": "https://esporte.ig.com.br/",
+        "category": 4
+    },
+
+
+
+    {
+        "title": "revistaquem",
+        "logo": "revistaquem.png",
+        "color": "#fff",
+        "url": "https://revistaquem.globo.com/",
+        "category": 5
+    },
+    {
+        "title": "QUEM",
+        "logo": "quem.png",
+        "color": "#fff",
+        "url": "https://revistaquem.globo.com/QUEM-News/",
+        "category": 5
+    },
+    {
+        "title": "caras",
+        "logo": "caras.png",
+        "color": "#fff",
+        "url": "https://caras.uol.com.br/",
+        "category": 5
+    },
+    {
+        "title": "harpersbazaar",
+        "logo": "harpersbazaar.png",
+        "color": "#fff",
+        "url": "https://harpersbazaar.uol.com.br/",
+        "category": 5
+    },
+    {
+        "title": "folhageral",
+        "logo": "folhageral.png",
+        "color": "#fff",
+        "url": "https://www.folhageral.com/entretenimento",
+        "category": 5
+    },
+    {
+        "title": "tvefamosos",
+        "logo": "tvefamosos.png",
+        "color": "#fff",
+        "url": "https://tvefamosos.uol.com.br/",
+        "category": 5
+    }
+]
