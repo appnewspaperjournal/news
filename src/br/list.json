@@ -13,6 +13,7 @@
         "url": "https://atarde.uol.com.br/",
         "category": 1
     },
+	
     {
         "title": "globo",
         "logo": "globo.png",
@@ -319,18 +320,12 @@
 
 
 
-    {
-        "title": "revistaquem",
-        "logo": "revistaquem.png",
-        "color": "#fff",
-        "url": "https://revistaquem.globo.com/",
-        "category": 5
-    },
+
     {
         "title": "QUEM",
         "logo": "quem.png",
         "color": "#fff",
-        "url": "https://revistaquem.globo.com/QUEM-News/",
+        "url": "https://revistaquem.globo.com",
         "category": 5
     },
     {
