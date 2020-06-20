@@ -7,14 +7,6 @@
         "category": 1
     },
     {
-        "title": "A TARDE",
-        "logo": "atarde.png",
-        "color": "#fff",
-        "url": "https://atarde.uol.com.br/",
-        "category": 1
-    },
-	
-    {
         "title": "globo",
         "logo": "globo.png",
         "color": "#fff",
@@ -62,7 +54,7 @@
         "logo": "terra.png",
         "color": "#fff",
         "url": "https://www.terra.com.br/",
-        "category": 3
+        "category": 1
     },
     {
         "title": "otempo",
@@ -153,6 +145,13 @@
         "logo": "riotimesonline.png",
         "color": "#fff",
         "url": "https://riotimesonline.com/",
+        "category": 1
+    },
+	 {
+        "title": "A TARDE",
+        "logo": "atarde.png",
+        "color": "#fff",
+        "url": "https://atarde.uol.com.br/",
         "category": 1
     },
 
